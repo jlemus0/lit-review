@@ -27,3 +27,13 @@
 -   Some biases present in data, bias towards medically relevant bacteria, MCR genomes, can't do prevalence estimates
 
 -   Want to sample and sequence many different bacteria to improve data, remove biases, get from diverse environments and global locations to accurately study gene flow.
+
+## Insufficient sampling constrains our characterization of plant microbiomes
+
+### Bullington, 2021
+
+-   Current sampling practices poorly characterize microbial groups, need increased sampling intensity for better reproducibility and identification of subtler microbial distributions.
+
+-   No optimal sampling strategy yet, sampling effort bottleneck
+
+-   non-reproducible studies due to improper description of sampling methods, robustness not reported, small plant samples may not accurately represent total population of microbes.
