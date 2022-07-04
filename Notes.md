@@ -37,3 +37,11 @@
 -   No optimal sampling strategy yet, sampling effort bottleneck
 
 -   non-reproducible studies due to improper description of sampling methods, robustness not reported, small plant samples may not accurately represent total population of microbes.
+
+-   Lots of variation in SVs found between different methods (except for AMFs), extreme FFE undersampling (increase in richness w/ plant size), can still see seasonal variation
+
+-   Neither approach gave more species richness except for homogenizing before subsampling for bacteria. Needs more effort for plant microbes than soil microbes, can't get the whole picture, just a snapshot
+
+-   More effort needed for FFE than AMF because there are more of them?
+
+-   Need more detailed sampling info in papers, non-arbitrary sampling effort, increasing sampling effort when studying subtle differences in microbial communities/fully characterizing microbial communities.
