@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Notes
 
 ## Exploring bacterial diversity via a curated and searchable snapshot of archived DNA sequences
@@ -28,6 +32,8 @@
 
 -   Want to sample and sequence many different bacteria to improve data, remove biases, get from diverse environments and global locations to accurately study gene flow.
 
+    [@blackwell2021]
+
 ## Insufficient sampling constrains our characterization of plant microbiomes
 
 ### Bullington, 2021
@@ -45,3 +51,19 @@
 -   More effort needed for FFE than AMF because there are more of them?
 
 -   Need more detailed sampling info in papers, non-arbitrary sampling effort, increasing sampling effort when studying subtle differences in microbial communities/fully characterizing microbial communities.
+
+    [@bullington2021]
+
+## Iron-Only and Vanadium Nitrogenases: Fail-Safe Enzymes or Something More? Harwood, 2020 [@harwood2020]
+
+-   Nitrogenases used to fix N2 to NH3, (Fe)-Mo nitrogenases most efficient, use least ATP, make least H2. VFe and FeFe nitrogenases also used, less efficient (more ATP, H2). May be useful when running low on Mo or using H2 as fuel in hydrogenotrophs.
+
+-   VnfH and NifH very similar sequence-wise, 95% AA sequence similarity.
+
+-   Mo nitrogenase minumum dedicated gene set is nifH, nifD, nifK, nifB, nifE, nifN. nifHDK forms the nitrogenase, while nifBEN helps with FeMo cofactor synthesis.
+
+-   V nitrogenase uses vnfHDGK structural genes and vnfEN assembly genes, homologous to the nif versions, also needs nifB (vnfG is gamma subunit of VFe protein)
+
+-   Fe-only uses anfHDGK, but no anfEN. Requires nifUSVB for activity. Both alternative paths require nif genes to work, microbes that Fe-only/V nitrogenase also make Mo nitrogenase.
+
+-   All need low potential electrons for redox.
